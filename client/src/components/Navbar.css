@@ -1,0 +1,30 @@
+#nav{
+    background-color: rgb(189, 189, 189);
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 30;
+}
+
+.Log_out_btn {
+    background-color: white;
+    border: 1px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    padding: 5px, 10px; /* Corrected padding values */
+    cursor: pointer;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 8px;
+    text-decoration-line: none;
+    justify-content: center;
+    margin-right: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+}
+.Log_out_btn:hover{
+    background-color: rgb(216, 52, 79);
+    color: white;
+    border: 1px solid black;
+}
